@@ -1,4 +1,5 @@
 # swift-demo-app
+test trigger scanner
 An eCommerce example App in swift
 
 
